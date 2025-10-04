@@ -1,0 +1,1 @@
+  f.write(f"table of {n}: {str(table)}\n")
